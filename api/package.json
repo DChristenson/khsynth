@@ -1,0 +1,24 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "This is an api for synth materials DROPS in Kingdom Hearts Final Mix. This api does not contain those materials that can be found in chests or rewards.",
+  "main": "main.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DChristenson/khsynth-api.git"
+  },
+  "author": "DChristenson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DChristenson/khsynth-api/issues"
+  },
+  "homepage": "https://github.com/DChristenson/khsynth-api#readme"
+}

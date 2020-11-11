@@ -1,0 +1,273 @@
+[{
+    "id": 1,
+    "name": "Blaze Gem",
+    "enemies": ["Bandit", "Fat Bandit", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Traverse Town"],
+    "farming": "End of The World: Agrabah World Terminus"
+  },
+  {
+    "id": 2,
+    "name": "Blaze Shard",
+    "enemies": ["Red Nocturne", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Traverse Town"],
+    "farming": "End of The World: Wonderland World Terminus"
+  },
+  {
+    "id": 3,
+    "name": "Blazing Stone",
+    "enemies": ["Chimera"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Halloween Town: Manor Ruins"
+  },
+  {
+    "id": 4,
+    "name": "Bright Crystal",
+    "enemies": ["Defender"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Traverse Town: Hallway"
+  },
+  {
+    "id": 5,
+    "name": "Bright Gem",
+    "enemies": ["Search Ghost", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Agrabah"],
+    "farming": "Traverse Towm: Gizmo Shop"
+  },
+  {
+    "id": 6,
+    "name": "Bright Shard",
+    "enemies": ["Green Requiem", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Agrabah"],
+    "farming": "End of The World: Wonderland World Terminus"
+  },
+  {
+    "id": 7,
+    "name": "Dark Matter",
+    "enemies": null,
+    "bambi": false,
+    "bambiLoc": "null",
+    "farming": "Synthesize at Traverse Town: Item Workshop"
+  },
+  {
+    "id": 8,
+    "name": "Dazzling Stone",
+    "enemies": ["Jet Balloon"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Neverland: Pirate Ship"
+  },
+  {
+    "id": 9,
+    "name": "Energy Stone",
+    "enemies": ["Stealth Soldier"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Hollow Bastion: Grand Hall"
+  },
+  {
+    "id": 10,
+    "name": "Frost Gem",
+    "enemies": ["Sea Neon", "Sheltering Zone", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Wonderland"],
+    "farming": "End of the World: Atlantica World Terminus"
+  },
+  {
+    "id": 11,
+    "name": "Frost Shard",
+    "enemies": ["Blue Rhapsody", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Wonderland"],
+    "farming": "End of The World: Wonderland World Terminus"
+  },
+  {
+    "id": 12,
+    "name": "Frost Stone",
+    "enemies": ["Grand Ghost"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Monstro: Stomach"
+  },
+  {
+    "id": 13,
+    "name": "Fury Stone",
+    "enemies": ["Gigas Shadow"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Wonderland: Bizarre Room"
+  },
+  {
+    "id": 14,
+    "name": "Gale",
+    "enemies": ["Angel Star", "Invisible"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "End of the World: Linked Worlds"
+  },
+  {
+    "id": 15,
+    "name": "Lightning Stone",
+    "enemies": ["Black Ballade"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Deep Jungle: Bamboo Thicket"
+  },
+  {
+    "id": 16,
+    "name": "Lucid Crystal",
+    "enemies": ["Dark Ball", "Shadow Sora"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Halloween Town"
+  },
+  {
+    "id": 17,
+    "name": "Lucid Gem",
+    "enemies": ["Gargoyle", "White Mushroom", "Wight Knight"],
+    "bambi": true,
+    "bambiLoc": ["Monstro", "Hollow Bastion"],
+    "farming": "Halloween Town: Graveyard"
+  },
+  {
+    "id": 18,
+    "name": "Lucid Shard",
+    "enemies": ["Shadow", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Monstro", "Hollow Bastion"],
+    "farming": "Wonderland: Bizarre Room"
+  },
+  {
+    "id": 19,
+    "name": "Mystery Goo",
+    "enemies": ["White Mushroom", "Rare Truffle", "Black Fungus"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Deep Jungle: Camp"
+  },
+  {
+    "id": 20,
+    "name": "Mythril",
+    "enemies": ["Angel Star", "Behemoth"],
+    "bambi": true,
+    "bambiLoc": ["End of the World"],
+    "farming": "Synthesize at Traverse Town: Item Workshop"
+  },
+  {
+    "id": 21,
+    "name": "Mythril Shard",
+    "enemies": ["Barrel Spider", "Pot Scorpion", "Pot Spider", "Behemoth"],
+    "bambi": true,
+    "bambiLoc": ["End of the World"],
+    "farming": "Summon Bambi in End of the World"
+  },
+  {
+    "id": 22,
+    "name": "Mythril Stone",
+    "enemies": ["Pot Scorpion"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Agrabah: Palace Gates"
+  },
+  {
+    "id": 23,
+    "name": "Orichalcum",
+    "enemies": null,
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Purchase at Traverse Town: Item Shop"
+  },
+  {
+    "id": 24,
+    "name": "Power Crystal",
+    "enemies": ["Wyvern"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Traverse Town: Second District"
+  },
+  {
+    "id": 25,
+    "name": "Power Gem",
+    "enemies": ["Air Pirate", "Battleship", "Pirate", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Halloween Town"],
+    "farming": "Neverland"
+  },
+  {
+    "id": 26,
+    "name": "Power Shard",
+    "enemies": ["Bouncywild", "Powerwild", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Halloween Town"],
+    "farming": "End of the World: Deep Jungle Terminus"
+  },
+  {
+    "id": 27,
+    "name": "Power Stone",
+    "enemies": ["Sniperwild"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Traverse Town: Second District"
+  },
+  {
+    "id": 28,
+    "name": "Serenity Power",
+    "enemies": ["Pink Agaricus"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Deep Jungle: Treehouse"
+  },
+  {
+    "id": 29,
+    "name": "Shiny Crystal",
+    "enemies": ["Wizard"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "Hollow Bastion: Grand Hall"
+  },
+  {
+    "id": 30,
+    "name": "Spirit Gem",
+    "enemies": ["Air Soldier", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Wonderland"],
+    "farming": "Summon Bambi in Wonderland"
+  },
+  {
+    "id": 31,
+    "name": "Spirit Shard",
+    "enemies": ["Large Body", "Soldier", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Neverland"],
+    "farming": "End of the World: Traverse Town World Terminus"
+  },
+  {
+    "id": 32,
+    "name": "Stormy Stone",
+    "enemies": ["Neoshadow"],
+    "bambi": false,
+    "bambiLoc": null,
+    "farming": "End of the World: Linked Worlds"
+  },
+  {
+    "id": 33,
+    "name": "Thunder Gem",
+    "enemies": ["Aquatank", "Screwdiver", "White Mushroom"],
+    "bambi": true,
+    "bambiLoc": ["Deep Jungle"],
+    "farming": "Atlantica"
+  },
+  {
+    "id": 34,
+    "name": "Thunder Shard",
+    "enemies": ["White Mushroom", "Yellow Opera"],
+    "bambi": true,
+    "bambiLoc": ["Deep Jungle"],
+    "farming": "End of The World: Wonderland World Terminus"
+  }
+]

@@ -1,0 +1,199 @@
+[{
+        "id": 1,
+        "name": "Mega-Potion",
+        "tier": "1",
+        "recipe": ["1 Spirit Stone", "1 Power Shard", "4 Mythril Shard"]
+    },
+    {
+        "id": 2,
+        "name": "Cottage",
+        "tier": "1",
+        "recipe": ["1 Lucid Shard", "1 Bright Shard"]
+    },
+    {
+        "id": 3,
+        "name": "Energy Bangle",
+        "tier": "1",
+        "recipe": ["2 Spirit Shard", "1 Bright Shard"]
+    },
+    {
+        "id": 4,
+        "name": "Power Chain",
+        "tier": "1",
+        "recipe": ["2 Power Shard", "1 Lucid Shard"]
+    },
+    {
+        "id": 5,
+        "name": "Magic Armlet",
+        "tier": "1",
+        "recipe": ["3 Blaze Shard", "3 Frost Shard", "3 Thunder Shard"]
+    },
+    {
+        "id": 6,
+        "name": "EXP Earring",
+        "tier": "1",
+        "recipe": ["1 Fury Stone", "1 Power Stone", "1 Mythril Stone", "1 Serenity Power", "3 Dark Matter"]
+    },
+    {
+        "id": 7,
+        "name": "Mega-Ether",
+        "tier": "2",
+        "recipe": ["1 Blaze Shard", "1 Frost Shard", "1 Thunder Shard", "2 Mythril"]
+    },
+    {
+        "id": 8,
+        "name": "Guard Earring",
+        "tier": "2",
+        "recipe": ["3 Bright Shard", "1 Frost Shard", "3 Mythril Shard"]
+    },
+    {
+        "id": 9,
+        "name": "Angel Bangle",
+        "tier": "2",
+        "recipe": ["3 Thunder Shard", "1 Bright Gem"]
+    },
+    {
+        "id": 10,
+        "name": "Golem Chain",
+        "tier": "2",
+        "recipe": ["3 Blaze Shard", "1 Spirit Gem"]
+    },
+    {
+        "id": 11,
+        "name": "Rune Armlet",
+        "tier": "2",
+        "recipe": ["3 Blaze Gem", "3 Frost Gem", "3 Thunder Gem"]
+    },
+    {
+        "id": 12,
+        "name": "Moogle Badge",
+        "tier": "2",
+        "recipe": ["1 Blazing Stone", "1 Frost Stone", "1 Lightning Stone", "5 Mythril", "3 Orichalcum"]
+    },
+    {
+        "id": 13,
+        "name": "AP Up",
+        "tier": "3",
+        "recipe": ["2 Blaze Gem", "2 Frost Gem", "2 Thunder Gem", "4 Mythril"]
+    },
+    {
+        "id": 14,
+        "name": "Dark Ring",
+        "tier": "3",
+        "recipe": ["2 Lucid Gem", "2 Bright Gem"]
+    },
+    {
+        "id": 15,
+        "name": "Master Earring",
+        "tier": "3",
+        "recipe": ["5 Spirit Shard", "3 Spirit Gem", "1 Fury Stone"]
+    },
+    {
+        "id": 16,
+        "name": "Gaia Bangle",
+        "tier": "3",
+        "recipe": ["5 Lucid Shard", "3 Lucid Gem", "1 Lightning Stone"]
+    },
+    {
+        "id": 17,
+        "name": "Titan Chain",
+        "tier": "3",
+        "recipe": ["5 Power Shard", "3 Power Gem", "1 Power Stone"]
+    },
+    {
+        "id": 18,
+        "name": "Mythril",
+        "tier": "3",
+        "recipe": ["5 Mythril Shard", "1 Mythril Stone", "1 Mystery Goo"]
+    },
+    {
+        "id": 19,
+        "name": "Elixer",
+        "tier": "4",
+        "recipe": ["1 Power Crystal", "1 Shiny Crystal", "2 Bright Crystal", "3 Orichalcum"]
+    },
+    {
+        "id": 20,
+        "name": "Defense Up",
+        "tier": "4",
+        "recipe": ["3 Lucid Shard", "3 Bright Shard", "2 Bright Gem", "1 Power Crystal", "5 Orichalcum"]
+    },
+    {
+        "id": 21,
+        "name": "Heartguard",
+        "tier": "4",
+        "recipe": ["3 Lucid Gem", "1 Lucid Crystal", "1 Bright Crystal"]
+    },
+    {
+        "id": 22,
+        "name": "Three Stars",
+        "tier": "4",
+        "recipe": ["1 Power Gem", "3 Mystery Goo", "1 Shiny Crystal"]
+    },
+    {
+        "id": 23,
+        "name": "Atlas Armlet",
+        "tier": "4",
+        "recipe": ["5 Blaze Shard", "5 Frost Shard", "5 Thunder Shard", "1 Mystery Goo", "3 Dark Matter"]
+    },
+    {
+        "id": 24,
+        "name": "Crystal Crown",
+        "tier": "4",
+        "recipe": ["5 Lucid Crystal", "1 Power Crystal", "1 Shiny Crystal", "3 Blazing Stone", "3 Frost Stone"]
+    },
+    {
+        "id": 25,
+        "name": "Dark Matter",
+        "tier": "5",
+        "recipe": ["9 Lucid Shard", "1 Gale", "2 Mythril"]
+    },
+    {
+        "id": 26,
+        "name": "Megalixir",
+        "tier": "5",
+        "recipe": ["5 Lucid Gem", "3 Lucid Crystal", "2 Gale", "1 Dark Matter"]
+    },
+    {
+        "id": 27,
+        "name": "Power Up",
+        "tier": "5",
+        "recipe": ["5 Spirit Shard", "3 Spirit Gem", "5 Power Shard", "3 Power Gem", "1 Dark Matter"]
+    },
+    {
+        "id": 28,
+        "name": "Cosmic Arts",
+        "tier": "5",
+        "recipe": ["5 Bright Shard", "3 Bright Gem", "1 Bright Crystal", "3 Mythril Stone"]
+    },
+    {
+        "id": 29,
+        "name": "EXP Bracelet",
+        "tier": "5",
+        "recipe": ["1 Energy Stone", "1 Dazzling Stone", "1 Stormy Stone", "8 Orichalcum", "3 Dark Matter"]
+    },
+    {
+        "id": 30,
+        "name": "Ribbon",
+        "tier": "5",
+        "recipe": ["5 Blaze Gem", "5 Frost Gem", "5 Thunder Gem", "1 Gale", "3 Serenity Power"]
+    },
+    {
+        "id": 31,
+        "name": "Fantasista",
+        "tier": "6",
+        "recipe": ["3 Fury Stone", "3 Power Stone", "3 Mythril Stone", "5 Energy Stone"]
+    },
+    {
+        "id": 32,
+        "name": "Crystal Crown",
+        "tier": "6",
+        "recipe": ["3 Blazing Stone", "3 Frost Stone", "3 Lightning Stone", "5 Dazzling Stone"]
+    },
+    {
+        "id": 33,
+        "name": "Ultima Weapon",
+        "tier": "6",
+        "recipe": ["5 Thunder Gem", "5 Mystery Goo", "3 Serenity Power", "3 Stormy Stone", "3 Dark Matter"]
+    }
+]
